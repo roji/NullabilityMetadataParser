@@ -1,0 +1,13 @@
+﻿<Project>
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- This pulls in a specific version of Roslyn -->
+    <PackageReference Include="Microsoft.Net.Compilers.Toolset" Version="3.3.0-beta1-19351-01" PrivateAssets="all" IsImplicitlyDefined="true" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullabilityMetadataParser", "NullabilityMetadataParser\NullabilityMetadataParser.csproj", "{09078753-CED1-4A25-BA98-BA37276C6F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullabilityMetadataParser.Tests", "NullabilityMetadataParser.Tests\NullabilityMetadataParser.Tests.csproj", "{9A241331-FD10-40FA-A954-0E1B50E413A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09078753-CED1-4A25-BA98-BA37276C6F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09078753-CED1-4A25-BA98-BA37276C6F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09078753-CED1-4A25-BA98-BA37276C6F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09078753-CED1-4A25-BA98-BA37276C6F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A241331-FD10-40FA-A954-0E1B50E413A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A241331-FD10-40FA-A954-0E1B50E413A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A241331-FD10-40FA-A954-0E1B50E413A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A241331-FD10-40FA-A954-0E1B50E413A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
